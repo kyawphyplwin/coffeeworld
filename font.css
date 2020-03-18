@@ -1,0 +1,29 @@
+@font-face{
+	font-family: 'CrimsonBI';
+	src:url('font/CrimsonText-BoldItalic.ttf');
+}
+@font-face{
+	font-family: 'CrimsonB';
+	src:url('font/CrimsonText-Bold.ttf');
+
+}
+@font-face{
+	font-family: 'CrimsonI';
+	src:url('font/CrimsonText-Italic.ttf');
+
+}
+@font-face{
+	font-family: 'CrimsonR';
+	src:url('font/CrimsonText-Regular.ttf');
+
+}
+@font-face{
+	font-family: 'CrimsonSemiB';
+	src:url('font/CrimsonText-SemiBold.ttf');
+
+}
+@font-face{
+	font-family: 'CrimsonSemiBI';
+	src:url('font/CrimsonText-SemiBoldItalic.ttf');
+
+}
